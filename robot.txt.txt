@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://shadowsu-creator.github.io/cashapp-bonus/sitemap.xml
